@@ -147,6 +147,7 @@ val recipes = listOf(
         fullDescription = "Ingredientes:\n- Lechuga\n- Pollo\n- Queso parmesano\n...\n\nPreparación:\n1. Cortar los ingredientes...",
         imageRes = R.drawable.ensalada_cesar
     ),
+    // Agregar más recetas
     Recipe(
         title = "Sopa de Tomate",
         description = "Sopa cremosa con tomates frescos",
